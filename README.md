@@ -1,1 +1,1 @@
-SapplyValues is a clone of the Sapply political compass, made to use 8values' UI.
+Morgan's SapplyValues is a clone of SapplyValues. It takes elements from both the original and Shodan's version of SapplyValues to create a more accurate test.
